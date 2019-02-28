@@ -1,2 +1,2 @@
 # northomoliveira.github.io
-Oi eu estou aprendendo a programar s2
+Oi eu estou aprendendo a programar 
